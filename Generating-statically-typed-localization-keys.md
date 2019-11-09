@@ -1,0 +1,1 @@
+Generating statically-typed localization keys
