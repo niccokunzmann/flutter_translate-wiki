@@ -1,3 +1,2 @@
 1. [Installation, Configuration & Usage](https://github.com/Jesway/Flutter-Translate/wiki/1.-Installation,-Configuration-&-Usage)
 2. [Automatically saving & restoring the selected locale](https://github.com/Jesway/Flutter-Translate/wiki/2.-Automatically-saving-&-restoring-the-selected-locale)
-3. [Generating statically typed localization keys](https://github.com/Jesway/Flutter-Translate/wiki/3.-Generating-statically-typed-localization-keys)
